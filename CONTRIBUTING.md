@@ -24,7 +24,7 @@ Also, please ensure your pull request adheres to the following guidelines:
 * Make sure your text editor is set to remove trailing whitespace.
 * Make sure all categories and projects are in alphabetically asending.
 
-> This guide is inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
+> This guideline was written from [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 Thank you for your suggestions!
 
