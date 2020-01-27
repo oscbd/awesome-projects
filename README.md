@@ -17,7 +17,7 @@ A curated list of amazingly awesome Open Source project that was developed or co
     - [Security](#security)
     - [URL](#url)
     
-- [Resources and Articles] (#resources-and-articles)
+- [Resources and Articles](#resources-and-articles)
      - [Dependency Injection](#dependency-injection)
      - [OOP](#oop)
      - [Security](#security)
