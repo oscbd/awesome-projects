@@ -2,7 +2,7 @@
 A curated list of amazingly awesome Open Source project that was developed or contributed by Bangladeshis.
 
 ## Table of Contents
-- [Projects and Pakages](#project-and-projects)
+- [Projects and Pakages](#projects-and-packages)
     - [ACL](#acl)
     - [Code Analysis](#code-analysis)
     - [Database](#database)
